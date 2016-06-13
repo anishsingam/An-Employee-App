@@ -1,1 +1,1 @@
-# Employee App Project by Synechron
+# Employee App Project by Synechron using Angular JS
